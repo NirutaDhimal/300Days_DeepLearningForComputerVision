@@ -13,7 +13,7 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
 ![Image of read image code](Photos/day1/read.png)
 ![Image of read video code](Photos/day1/readVideo.png)
 ![Image of rescale and resize code](Photos/day1/rescale.png)
-![Image of draw shapes code](Photos/day1/shape.png)
+![Image of draw shapes code](Photos/day1/draw.png)
 ![Image of code of text in image](Photos/day1/writeImage.png)
 
 
