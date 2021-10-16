@@ -8,7 +8,7 @@ I am starting my journey in Computer Vision. I have started my journey by learni
 |1. [OpenCv](https://youtu.be/oXlwWbU8l2o)                       |
 |2. Deep Learning For Computer Vision With Python: Starter Bundle|
 
-**Day 1 of 300DaysOfDeepLearningForComputerVision!**
+**Day1 of 300DaysOfDeepLearningForComputerVision!**
 In Day1, I learned how to read and show photos and videos on screen using OpenCv. In addition to this I also learned how to rescale and resize image and video frames and draw shapes like rectangle, circle and straight line and write text on images.
 ![Image of read image code](Photos/day1/read.png)
 ![Image of read video code](Photos/day1/readVideo.png)
@@ -16,4 +16,14 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
 ![Image of draw shapes code](Photos/day1/draw.png)
 ![Image of code of text in image](Photos/day1/writeImage.png)
 
+**Day2 of 300DaysOfDeepLearningForComputerVision!**
+* Basic Functions in OpenCv
+   -Converting to grayscale
+   -Blur
+   -Edge Cascade
+   -Dilating the image
+   -Eroding the dilated image
+   -Resize
+   -Crop
+![Image of day 2](Photos/day2.png)
 
