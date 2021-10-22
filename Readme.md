@@ -10,11 +10,11 @@ I am starting my journey in Computer Vision. I have started my journey by learni
 
 ### Day1 of 300DaysOfDeepLearningForComputerVision!
 In Day1, I learned how to read and show photos and videos on screen using OpenCv. In addition to this I also learned how to rescale and resize image and video frames and draw shapes like rectangle, circle and straight line and write text on images.
-![Image of read image code](photos/day1/read.png)
-![Image of read video code](photos/day1/readVideo.png)
-![Image of rescale and resize code](photos/day1/rescale.png)
-![Image of draw shapes code](photos/day1/draw.png)
-![Image of code of text in image](photos/day1/writeImage.png)
+![Image of read image code](Photos/day1/read.png)
+![Image of read video code](Photos/day1/readVideo.png)
+![Image of rescale and resize code](Photos/day1/rescale.png)
+![Image of draw shapes code](Photos/day1/draw.png)
+![Image of code of text in image](Photos/day1/writeImage.png)
 
 ### Day2 of 300DaysOfDeepLearningForComputerVision!
 * **Basic Functions in OpenCv**
@@ -25,7 +25,7 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
    - Eroding the dilated image
    - Resize
    - Crop
-![Image of day 2](photos/day2.png)
+![Image of day 2](Photos/day2.png)
 
 ### Day3 of 300DaysOfDeepLearningForComputervision!
 * **Image Transformation**
@@ -41,11 +41,11 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
    - Crop
 * **Contour Detection**
         Contours are basically the boundaries of objects, the line or curve that joins the continuous points along the boundary of an object. From mathematical point of view, contours and           edges are two different things. Contours are useful tools when you get into shape analysis and obbject detection and recognition. For contour detection, we use findCountours method          which returns two things:- countours and hierarchies and takes in the edges, a mode in which to find the contents and contour approximation. mode is either cv.RETR_TREE if you want          all the hierarchial contours  or cv.RETR_EXTERNAL if you want only the external contours or cv.RETR_List if you want all the contours in the image. Here, the returned counters is            essentially the python list of all the coordinates of contours that were found in the image and hierarchies refers to hierarchial representation of contours. 
-![Image of Image Transformation](photos/day3/transformation.png)
-![Image of Contour detection using canny edges](photos/day3/ContourCanny.png)
-![Image of Contour detection using Threshold](photos/day3/ContourThresh.png)
-![Image of Contour drawn using canny edges](photos/day3/ContoursDrawnUsingCanny.png)
-![Image of Contour drawn using Threshold](photos/day3/ContoursDrawnUsingThreshold.png)
+![Image of Image Transformation](Photos/day3/transformation.png)
+![Image of Contour detection using canny edges](Photos/day3/ContourCanny.png)
+![Image of Contour detection using Threshold](Photos/day3/ContourThresh.png)
+![Image of Contour drawn using canny edges](Photos/day3/ContoursDrawnUsingCanny.png)
+![Image of Contour drawn using Threshold](Photos/day3/ContoursDrawnUsingThreshold.png)
 
 
 
