@@ -58,7 +58,7 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
       A color image basically consists of a number of color channels: red, green and blue. All the images we see around us, all the BGR or RGB images, are basically thes three color       channels merged together. OpenCv allows us to split an image into its respective color channels. So we can take a BGR image and split it into blue, green and red components.
 
 ![Image of Color Spaces](Photos/day4/colorSpace.png)
-![Image of color Channels](photos/day4/colorChannels.png)
+![Image of color Channels](Photos/day4/colorChannels.png)
 
 
 
