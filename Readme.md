@@ -60,5 +60,21 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
 ![Image of Color Spaces](Photos/day4/colorSpace.png)
 ![Image of color Channels](Photos/day4/colorChannels.png)
 
+### Day5 of 300DaysOfDeepLearningForComputerVision!
+* **Smoothing**<br/>
+       Smoothing is used to reduce noise like noise produced by camera sensor or to produce less pixelated image. We smooth out the image or reduce noise by applying some of the blurring           techniques.  
+* **Blurrring Techniques**<br/>
+       - Average Blur
+       - Gaussian Blur
+       - Median Blur
+       - Bilateral Blurring
+* **Bitwise Operators**<br/>
+       There are four basic bitwise operators (AND, OR, NOT, XOR). They are used a lot in image processing especially when working with masks. Bitwise operators operate in a binary manner.
+
+![Image of blurring techniques](Photos/day5/blurring.png)
+![Image of bitwise operators](Photos/day5/bitwise.png) 
+
+        
+
 
 
