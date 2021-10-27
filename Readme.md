@@ -74,6 +74,15 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
 ![Image of blurring techniques](Photos/day5/blurring.png)
 ![Image of bitwise operators](Photos/day5/bitwise.png) 
 
+### Day6 of 300DaysOfDeepLearningForComputervision!
+* **Masking**<br/>
+         When talking about editing and processing images the term 'masking' refers to the practice of using a mask to protect a specific area of an image. We can perform masking in OpenCv          by using bitwise operators. It basically allows us to focus on certain parts of an image that we would like to focus on. For example, if we have an image of people in it, and we          are interested in focusing on the faces of those people, we could essentially apply masking and mask over the people's faces and remove all the unwanted parts of the image. The          dimension of mask should be the same as that of the image. We can use any shapes and sizes for masking, in the code I have used circle.
+* **Computing Histograms**<br/>
+         Histograms allows us to visualize the distribution of pixel intensities in an image. 
+
+![Image of masking](Photos/day6/masking.png)
+![Image of Masked Image](Photos/day6/masked_image.png)
+![Image of Computing Histograms](Photos/day6/histogram1.png)
         
 
 
