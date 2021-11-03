@@ -84,13 +84,20 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
 ![Image of Masked Image](Photos/day6/masked_image.png)
 ![Image of Computing Histograms](Photos/day6/histogram1.png)
 
-### Day7 of 400DaysOfDeepLearningForComputerVision!
+### Day7 of 300DaysOfDeepLearningForComputerVision!
 * **Thresholding**<br/>
-        Thresholding is the binarization of an image. In general, we want to take an image and convert it to a binary image i.e an image where pixels are either zero(black) or 255(white).         Here, I will practice two types of thresholding, simple thresholding and adaptive thresholding. In simple thresholding, we have to specify threshold value  whereas in adaptive         thresholding opencv does it for us by using block size and adoptive method.
+        Thresholding is the binarization of an image. In general, we want to take an image and convert it to a binary image i.e an image where pixels are either zero(black) or 255(white).           Here, I will practice two types of thresholding, simple thresholding and adaptive thresholding. In simple thresholding, we have to specify threshold value  whereas in adaptive               thresholding opencv does it for us by using block size and adoptive method.
 
 ![Image of code of thresholding](Photos/day7/thresholding.png) 
-      
-        
+
+### Day8 of 300DaysOfDeepLearningForComputerVision!
+* **Gradient and Edge Detection**<br/>
+         An edge can be defined as contigious pixel positions where an abrupt change of intensity (gray or color) values occur. Gradients are edge like regions that are present in an image.          From a mathematical point of view, gradients and edges are completely different things but we can assume gradient and edge as same thing from programming prespective only. I used            three method for edge detection viz. canny edge detection, laplacian and sobel.
+
+![Image of code for edge detection](Photos/day8/edge_detection_code.png)
+![Image of detected edges using laplacian](Photos/day8/laplacian.png)
+![Image of detected edges using sobel](Photos/day8/sobel.png)
+![Image of detected edges using canny](Photos/day8/canny.png)
 
 
 
