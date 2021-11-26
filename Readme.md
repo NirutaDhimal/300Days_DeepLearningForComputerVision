@@ -105,8 +105,8 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
 ![Image of detected edges using canny](Photos/day8/canny.png)
 
 ### Day9 of 300DaysOfDeepLearningForComputerVision
-Today I did a simple project which is face detection using Haar Cascades. OpenCv provide a lot of pre-trained classifiers including haar cascades so I have used that for this project. This project detect faces from live video i.e. video from webcam. The link to the project is in the project section.
-** Haar Cascade**<br/>
+Today I did a simple project which is face detection using Haar Cascades. OpenCv provide a lot of pre-trained classifiers including haar cascades so I have used that for this project. This project detect faces from live video i.e. video from webcam. The link to the project is in the project section.<br/>
+* ** Haar Cascade**<br/>
           Haar Cascade is a machine learning based approach where a cascade function is trained using lots of positive and negative images.It calculates different features like edges, lines, etc in the image. It is then used to detect object in other images. It is more prone to noise than more advanced classifier like local binary patterns.
 
 
