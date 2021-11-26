@@ -1,14 +1,15 @@
 # Journey of 300 Days of Deep Learning for Computer Vision using Python
 ![This is an image displaying computer vision](Photos/computervision.jpg)
 
-I am starting my journey in Computer Vision. I have started my journey by learning OpenCv from a youtube video uploaded by freeCodeCamp.org(the link is in the resources field) and I will be learning from a book written by Dr. Adrian Rosebrock called "Deep Learning For Computer Vision With Python". This repository will contain the things I have learnt on my journey to Computer Vision
+I am starting my journey in Computer Vision. I have started my journey by learning OpenCv from a youtube video uploaded by freeCodeCamp.org(the link is in the resources field) and I will be learning from a book written by Dr. Adrian Rosebrock called "Deep Learning For Computer Vision With Python". This repository will contain the things I have learnt on my journey to Computer Vision.
 
 |                              Books and Resources                                  |
 |-----------------------------------------------------------------------------------|
 |1. [OpenCv](https://youtu.be/oXlwWbU8l2o)                                          |
 |2. Deep Learning For Computer Vision With Python: Starter Bundle                   |
 
-                               Projects
+
+|                              Projects                                             |
 |-----------------------------------------------------------------------------------|
 |1. [Face Detection using Haar Cascades](Projects/FaceDetectionWithHaarCascades)    |
 
