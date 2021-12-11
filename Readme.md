@@ -1,14 +1,15 @@
 # Journey of 300 Days of Deep Learning for Computer Vision using Python
 ![This is an image displaying computer vision](Photos/computervision.jpg)
 
-I am starting my journey in Computer Vision. I have started my journey by learning OpenCv from a youtube video uploaded by freeCodeCamp.org(the link is in the resources field) and I will be learning from a book written by Dr. Adrian Rosebrock called "Deep Learning For Computer Vision With Python". This repository will contain the things I have learnt on my journey to Computer Vision
+I am starting my journey in Computer Vision. I have started my journey by learning OpenCv from a youtube video uploaded by freeCodeCamp.org(the link is in the resources field) and I will be learning from a book written by Dr. Adrian Rosebrock called "Deep Learning For Computer Vision With Python". This repository will contain the things I have learnt on my journey to Computer Vision.
 
 |                              Books and Resources                                  |
 |-----------------------------------------------------------------------------------|
 |1. [OpenCv](https://youtu.be/oXlwWbU8l2o)                                          |
 |2. Deep Learning For Computer Vision With Python: Starter Bundle                   |
 
-                               Projects
+
+|                              Projects                                             |
 |-----------------------------------------------------------------------------------|
 |1. [Face Detection using Haar Cascades](Projects/FaceDetectionWithHaarCascades)    |
 
@@ -104,8 +105,8 @@ In Day1, I learned how to read and show photos and videos on screen using OpenCv
 ![Image of detected edges using canny](Photos/day8/canny.png)
 
 ### Day9 of 300DaysOfDeepLearningForComputerVision
-Today I did a simple project which is face detection using Haar Cascades. OpenCv provide a lot of pre-trained classifiers including haar cascades so I have used that for this project. This project detect faces from live video i.e. video from webcam. The link to the project is in the project section.
-** Haar Cascade**<br/>
+Today I did a simple project which is face detection using Haar Cascades. OpenCv provide a lot of pre-trained classifiers including haar cascades so I have used that for this project. This project detect faces from live video i.e. video from webcam. The link to the project is in the project section.<br/>
+* ** Haar Cascade**<br/>
           Haar Cascade is a machine learning based approach where a cascade function is trained using lots of positive and negative images.It calculates different features like edges, lines, etc in the image. It is then used to detect object in other images. It is more prone to noise than more advanced classifier like local binary patterns.
 
 
